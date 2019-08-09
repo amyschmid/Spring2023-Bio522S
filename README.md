@@ -9,4 +9,4 @@ This repository houses and manages student accessible documents:
 * Discussion questions from other students
 
 # Usage
-Access the materials through the wiki: https://github.com/Bio590S-origins/Fall2017-Bio590S/wiki
+Access the materials through the wiki: https://github.com/Fall2019-Bio522S/wiki
