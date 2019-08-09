@@ -1,4 +1,4 @@
-# Fall2017-Bio590S
+# Fall2019-Bio522S
 
 ## Origins of Cellular Life
 This repository houses and manages student accessible documents:
